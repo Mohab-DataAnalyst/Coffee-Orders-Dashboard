@@ -48,7 +48,7 @@ The **Coffee Sales Dashboard** is designed to offer a clear, dynamic overview of
 
 ## 📎 Acknowledgements
 - This project was inspired by [@Mo Chen.](https://youtu.be/m13o5aqeCbM?si=W9JPsol-oXj7iJN3)
-- Dataset in description [here.](https://github.com/mochen862/excel-project-coffee-sales)
+- Dataset [here.](https://github.com/mochen862/excel-project-coffee-sales)
 ## ✍️ Author
 - 👤 [@Mohab-DataAnalyst](https://github.com/Mohab-DataAnalyst)
 
